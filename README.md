@@ -1,6 +1,6 @@
 # Vendroid
 
-Vendroid is a custom Discord client for Android. The way it works is that it loads the discord.com website and injects Vencord.
+Vendroid is a custom Discord client for Android. The way it works is that it loads the discord.com website and injects Vencord. Keep in mind this is my version with my plugins and my vencord version etc (I literally just built the web version and changed the url in Constants.java)
 
 | | |
 |:--:|:--:|
